@@ -1,0 +1,35 @@
+* {
+    background-color: lightblue;
+}
+
+.div-board {
+    margin: 1rem 15px 0;
+    border: solid orange
+  }
+  
+.add {
+margin: 1rem 15px 0;
+
+}
+
+.add-button {
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    background-color: orange;
+    border-color: orange;
+}
+
+.add-button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#movieTitle {
+    display:block;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
